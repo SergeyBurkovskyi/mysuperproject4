@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-image version = v1
-=======
-image version = v2
->>>>>>> kipper_77_B
+version = v1
